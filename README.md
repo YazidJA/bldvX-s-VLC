@@ -1,4 +1,4 @@
-# bldvX-s-VLC
+# bldvX's VLC
 VLC Skin
 
 1. Install VLC
